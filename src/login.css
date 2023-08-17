@@ -1,0 +1,37 @@
+.wrapper {
+  height: 100vh;
+}
+.login {
+  text-align: left;
+  width: 600px;
+  padding: 20px;
+  height: 400px;
+  border-radius: 5px;
+  color: black;
+  background-color: rgb(238, 241, 243);
+}
+.error {
+  color: red;
+}
+
+.highlight {
+  border: 1px solid red;
+}
+input {
+  width: 100%;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.txt {
+  text-align: center;
+  font-size: 40px;
+}
+label {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.hometxt {
+  font-size: 65px;
+}
